@@ -4,4 +4,4 @@ const PopulerOffer = () => {
   )
 }
 
-export default PopulerOffer
+export default PopularOffer
