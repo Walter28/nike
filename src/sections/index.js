@@ -7,7 +7,7 @@ import Services from "./Services";
 import SuperQuality from "./SuperQuality";
 import Suscribe from "./Suscribe";
 
-export {
+export default {
     Hero,
     CustomerReviews,
     Footer,
